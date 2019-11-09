@@ -1,0 +1,224 @@
+{
+    "general": {
+        "title": "Magic Dex"
+    },
+    "tokens": [
+        {
+            "symbol": "zrx",
+            "name": "0x Protocol Token",
+            "primaryColor": "#333333",
+            "icon": "assets/icons/zrx.svg",
+            "addresses": {
+                "1": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+                "3": "0xff67881f8d12f372d91baae9752eb3631ff0ed00",
+                "4": "0x8080c7e4b81ecf23aa6f877cfbfd9b0c228c6ffa",
+                "42": "0x2002d3812f58e35f0ea1ffbf80a75a38c32175fa",
+                "50": "0x871dd7c2b4b25e1aa18728e9d5f2af4c4e431f5c"
+            },
+            "decimals": 18,
+            "displayDecimals": 2
+        },
+        {
+            "symbol": "daapl_st",
+            "name": "Demo_Apple,Inc.SecurityToken",
+            "primaryColor": "#333333",
+            "icon": "assets/icons/weth.svg",
+            "addresses": {
+                "1": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+                "3": "0xfb62598385eb545ba258e7f19a0dcf2dffca65e8",
+                "4": "0x8080c7e4b81ecf23aa6f877cfbfd9b0c228c6ffa",
+                "42": "0x2002d3812f58e35f0ea1ffbf80a75a38c32175fa",
+                "50": "0x871dd7c2b4b25e1aa18728e9d5f2af4c4e431f5c"
+            },
+            "decimals": 18,
+            "displayDecimals": 2
+        },
+        {
+            "symbol": "dgoog_st",
+            "name": "Demo_Alphabet,Inc.SecurityToken",
+            "primaryColor": "#333333",
+            "icon": "assets/icons/weth.svg",
+            "addresses": {
+                "1": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+                "3": "0xae624cf3239a21deb8deb4e7ed5f9db82052912a",
+                "4": "0x8080c7e4b81ecf23aa6f877cfbfd9b0c228c6ffa",
+                "42": "0x2002d3812f58e35f0ea1ffbf80a75a38c32175fa",
+                "50": "0x871dd7c2b4b25e1aa18728e9d5f2af4c4e431f5c"
+            },
+            "decimals": 18,
+            "displayDecimals": 2
+        },
+        {
+            "symbol": "damzn_st",
+            "name": "Demo_AmazonSecurityToken",
+            "primaryColor": "#333333",
+            "icon": "assets/icons/weth.svg",
+            "addresses": {
+                "1": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+                "3": "0xe82016723aff3b29a6362af88b7644af83623d6f",
+                "4": "0x8080c7e4b81ecf23aa6f877cfbfd9b0c228c6ffa",
+                "42": "0x2002d3812f58e35f0ea1ffbf80a75a38c32175fa",
+                "50": "0x871dd7c2b4b25e1aa18728e9d5f2af4c4e431f5c"
+            },
+            "decimals": 18,
+            "displayDecimals": 2
+        },
+        {
+            "symbol": "dfb_st",
+            "name": "Demo_Facebook,Inc.SecurityToken",
+            "primaryColor": "#333333",
+            "icon": "assets/icons/weth.svg",
+            "addresses": {
+                "1": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+                "3": "0x1cda98775f075cbd6e287fc76ab469b18e45bfb0",
+                "4": "0x8080c7e4b81ecf23aa6f877cfbfd9b0c228c6ffa",
+                "42": "0x2002d3812f58e35f0ea1ffbf80a75a38c32175fa",
+                "50": "0x871dd7c2b4b25e1aa18728e9d5f2af4c4e431f5c"
+            },
+            "decimals": 18,
+            "displayDecimals": 2
+        },
+        {
+            "symbol": "dbaba_st",
+            "name": "Demo_AlibabaGroupHoldingLtdST",
+            "primaryColor": "#333333",
+            "icon": "assets/icons/weth.svg",
+            "addresses": {
+                "1": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+                "3": "0xf63155093e63886b8616ee5a827f18fe9a47c722",
+                "4": "0x8080c7e4b81ecf23aa6f877cfbfd9b0c228c6ffa",
+                "42": "0x2002d3812f58e35f0ea1ffbf80a75a38c32175fa",
+                "50": "0x871dd7c2b4b25e1aa18728e9d5f2af4c4e431f5c"
+            },
+            "decimals": 18,
+            "displayDecimals": 2
+        },
+        {
+            "symbol": "didh_st",
+            "name": "Demo_IdentiyHubSecurityToken",
+            "primaryColor": "#333333",
+            "icon": "assets/icons/weth.svg",
+            "addresses": {
+                "1": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+                "3": "0x189c398be0d95defeec71afdb725ba190069bbcb",
+                "4": "0x8080c7e4b81ecf23aa6f877cfbfd9b0c228c6ffa",
+                "42": "0x2002d3812f58e35f0ea1ffbf80a75a38c32175fa",
+                "50": "0x871dd7c2b4b25e1aa18728e9d5f2af4c4e431f5c"
+            },
+            "decimals": 18,
+            "displayDecimals": 2
+        },
+        {
+            "symbol": "dmc_st",
+            "name": "Demo_MagicCircleSecurityToken",
+            "primaryColor": "#333333",
+            "icon": "assets/icons/weth.svg",
+            "addresses": {
+                "1": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+                "3": "0xf7f9bb90fe43886a1b459071ebadd3a625b4486c",
+                "4": "0x8080c7e4b81ecf23aa6f877cfbfd9b0c228c6ffa",
+                "42": "0x2002d3812f58e35f0ea1ffbf80a75a38c32175fa",
+                "50": "0x871dd7c2b4b25e1aa18728e9d5f2af4c4e431f5c"
+            },
+            "decimals": 18,
+            "displayDecimals": 2
+        },
+        {
+            "symbol": "weth",
+            "name": "Wrapped Ether",
+            "primaryColor": "#3333ff",
+            "icon": "assets/icons/weth.svg",
+            "addresses": {
+                "1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "3": "0xc778417e063141139fce010982780140aa0cd5ab",
+                "4": "0xc778417e063141139fce010982780140aa0cd5ab",
+                "42": "0xd0a1e359811322d97991e03f863a0c30c2cf029c",
+                "50": "0x0b1ba0af832d7c05fd64161e0db78e85978e8082"
+            },
+            "decimals": 18,
+            "displayDecimals": 2
+        },
+        {
+            "decimals": 18,
+            "symbol": "dai",
+            "name": "Dai",
+            "icon": "assets/icons/dai.svg",
+            "primaryColor": "#DEA349",
+            "addresses": {
+                "1": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+                "3": "0xfc8862446cd3e4a2e7167e7d97df738407fead07",
+                "4": "0x6f2d6ff85efca691aad23d549771160a12f0a0fc",
+                "42": "0xc4375b7de8af5a38a93548eb8453a498222c4ff2",
+                "50": "0xbe0037eaf2d64fe5529bca93c18c9702d3930376"
+            }
+        },
+        {
+            "decimals": 18,
+            "symbol": "mkr",
+            "name": "Maker",
+            "primaryColor": "#68CCBB",
+            "icon": "assets/icons/mkr.svg",
+            "addresses": {
+                "1": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+                "3": "0x06732516acd125b6e83c127752ed5f027e1b276e",
+                "4": "0xb763e26cd6dd09d16f52dc3c60ebb77e46b03290",
+                "42": "0x7B6B10CAa9E8E9552bA72638eA5b47c25afea1f3",
+                "50": "0x34d402f14d58e001d8efbe6585051bf9706aa064"
+            }
+        }
+    ],
+    "pairs": [
+        {
+            "base": "didh_st",
+            "quote": "weth"
+        },
+        {
+            "base": "zrx",
+            "quote": "weth"
+        },
+        {
+            "base": "zrx",
+            "quote": "dai"
+        },
+        {
+            "base": "mkr",
+            "quote": "weth"
+        },
+        {
+            "base": "dgoog_st",
+            "quote": "weth"
+        },
+        {
+            "base": "daapl_st",
+            "quote": "weth"
+        },
+        {
+            "base": "dmc_st",
+            "quote": "weth"
+        },
+        {
+            "base": "damzn_st",
+            "quote": "weth"
+        }
+        ,
+        {
+            "base": "dfb_st",
+            "quote": "weth"
+        }
+        ,
+        {
+            "base": "dbaba_st",
+            "quote": "weth"
+        }
+    ],
+    "marketFilters": [
+        {
+            "text": "ETH",
+            "value": "weth"
+        },
+        {
+            "text": "DAI",
+            "value": "dai"
+        }
+    ]
+}
